@@ -7,7 +7,7 @@
 <body>
     <h1>Customers_Details</h1>
     <a href="{{ route('customers.create') }}">
-        Create Customer
+        Create New Customer
     </a>
     <br><br>
     <table border="1" width="100%">
